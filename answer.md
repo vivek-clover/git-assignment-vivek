@@ -21,7 +21,8 @@ Example:
 git version 2.43.0.windows.1
 ```
 
-📸 Screenshot: 
+Screenshot: 
+
 ![Q 1](1.png)
 
 ---

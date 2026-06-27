@@ -40,7 +40,8 @@ Verify:
 git config --global --list
 ```
 
-📸 Screenshot:
+Screenshot:
+
 ![Q2](2.png)
 
 ---
@@ -58,7 +59,8 @@ git status
 ### Output:
 Repository initialized successfully.
 
-📸 Screenshot:
+Screenshot:
+
 ![Q3](3.png)
 
 ---
@@ -72,7 +74,8 @@ git add README.md
 git commit -m "Initial commit"
 ```
 
-📸 Screenshot:
+Screenshot:
+
 ![Q4 ](4.png)
 
 ---
@@ -90,7 +93,8 @@ Example:
 63a9a3e705f8eda4b073b1d36fd98c72db21b668 
 ```
 
-📸 Screenshot:
+Screenshot:
+
 ![Q5](5.png)
 
 ---
@@ -120,7 +124,8 @@ git add .
 git commit -m "Commit 5"
 ```
 
-📸 Screenshot of git log
+Screenshot of git log
+
 ![Q6](6.png)
 
 ---
@@ -142,7 +147,8 @@ git branch
   main
 ```
 
-📸 Screenshot
+Screenshot
+
 ![Q7](7.png)
 
 ---
@@ -159,7 +165,8 @@ git add features.txt
 git commit -m "Added features file"
 ```
 
-📸 Screenshot:
+Screenshot:
+
 ![Q8](8.png)
 
 ---
@@ -175,7 +182,8 @@ dir
 ### Answer:
 `features.txt` is not visible because it exists only in the `dev` branch and has not been merged into `main`.
 
-📸 Screenshot 
+Screenshot 
+
 ![Q9](9.png)
 ---
 
@@ -187,7 +195,8 @@ git merge dev
 git log --oneline
 ```
 
-📸 Screenshot 
+Screenshot 
+
 ![Q10](10.png)
 ---
 
@@ -202,7 +211,8 @@ git add .gitignore
 git commit -m "Added gitignore"
 ```
 
-📸 Screenshot 
+Screenshot 
+
 ![Q11](11.png)
 ---
 
@@ -215,7 +225,8 @@ Repo Name:
 git-assignment-VivekZanjad
 ```
 
-📸 Screenshot
+Screenshot
+
 ![Q12](12.png)
 ---
 
@@ -231,7 +242,8 @@ Verify:
 git remote -v
 ```
 
-📸 Screenshot 
+Screenshot 
+
 ![Q13](13.png)
 ---
 
@@ -242,7 +254,8 @@ git remote -v
 git push -u origin main
 ```
 
-📸 Screenshot:
+Screenshot:
+
 ![Q14](14.png)
 ---
 
@@ -274,7 +287,8 @@ Output should show:
 bugfix.txt
 ```
 
-📸 Screenshot
+Screenshot
+
 ![Q16](16.png)
 ---
 
@@ -293,7 +307,8 @@ git status
 ### Result:
 Changes discarded successfully.
 
-📸 Screenshot:
+Screenshot:
+
 ![Q17](17.png)
 ---
 
@@ -304,7 +319,8 @@ Changes discarded successfully.
 git commit --amend -m "Initial commit - Added README"
 ```
 
-📸 Screenshot:
+Screenshot:
+
 ![Q18](18.png)
 ---
 
@@ -352,7 +368,8 @@ git add conflict.txt
 git commit -m "Resolved merge conflict"
 ```
 
-📸 Screenshot:
+Screenshot:
+
 ![alt text](19.1.png)
 
 ![alt text](19.2.png)
@@ -372,7 +389,8 @@ Repo Name:
 branching-drill-team
 ```
 
-📸 Screenshot 
+Screenshot 
+
 ![alt text](20.1.png)
 
 ![alt text](20.2.png)
@@ -385,7 +403,8 @@ GitHub Repo → Settings → Collaborators → Add People
 
 Add collaborator successfully.
 
-📸 Screenshot 
+Screenshot 
+
 ![Q21](21.png)
 ---
 

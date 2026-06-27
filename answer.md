@@ -23,7 +23,7 @@ git version 2.43.0.windows.1
 
 Screenshot: 
 
-![Q 1](1.png)
+![Q1 Screenshot](screenshots/outputs/1.png)
 
 ---
 
@@ -42,7 +42,7 @@ git config --global --list
 
 Screenshot:
 
-![Q2](2.png)
+![Q1 Screenshot](screenshots/outputs/2.png)
 
 ---
 
@@ -61,7 +61,7 @@ Repository initialized successfully.
 
 Screenshot:
 
-![Q3](3.png)
+![Q3](screenshots/outputs/3.png)
 
 ---
 
@@ -76,7 +76,7 @@ git commit -m "Initial commit"
 
 Screenshot:
 
-![Q4 ](4.png)
+![Q4 ](/screenshots/outputs/4.png)
 
 ---
 
@@ -95,7 +95,7 @@ Example:
 
 Screenshot:
 
-![Q5](5.png)
+![Q5](/screenshots/outputs/5.png)
 
 ---
 
@@ -126,7 +126,7 @@ git commit -m "Commit 5"
 
 Screenshot of git log
 
-![Q6](6.png)
+![Q6](/screenshots/outputs/6.png)
 
 ---
 
@@ -149,7 +149,7 @@ git branch
 
 Screenshot
 
-![Q7](7.png)
+![Q7](/screenshots/outputs/7.png)
 
 ---
 
@@ -167,7 +167,7 @@ git commit -m "Added features file"
 
 Screenshot:
 
-![Q8](8.png)
+![Q8](/screenshots/outputs/8.png)
 
 ---
 
@@ -184,7 +184,7 @@ dir
 
 Screenshot 
 
-![Q9](9.png)
+![Q9](/screenshots/outputs/9.png)
 ---
 
 ## Q10. Merge dev into main
@@ -197,7 +197,7 @@ git log --oneline
 
 Screenshot 
 
-![Q10](10.png)
+![Q10](/screenshots/outputs/10.png)
 ---
 
 ## Q11. Create .gitignore file
@@ -213,7 +213,7 @@ git commit -m "Added gitignore"
 
 Screenshot 
 
-![Q11](11.png)
+![Q11](screenshots/outputs/11.png)
 ---
 
 # Section C: GitHub Remote + Push/Pull
@@ -227,7 +227,7 @@ git-assignment-VivekZanjad
 
 Screenshot
 
-![Q12](12.png)
+![Q12](screenshots/outputs/12.png)
 ---
 
 ## Q13. Connect local repo to GitHub remote
@@ -244,7 +244,7 @@ git remote -v
 
 Screenshot 
 
-![Q13](13.png)
+![Q13](screenshots/outputs/13.png)
 ---
 
 ## Q14. Push code to GitHub
@@ -256,7 +256,7 @@ git push -u origin main
 
 Screenshot:
 
-![Q14](14.png)
+![Q14](screenshots/outputs/14.png)
 ---
 
 ## Q15. GitHub Repo Link
@@ -289,7 +289,7 @@ bugfix.txt
 
 Screenshot
 
-![Q16](16.png)
+![Q16](screenshots/outputs/16.png)
 ---
 
 # Section D: Undo, Conflicts & Collaboration
@@ -309,7 +309,7 @@ Changes discarded successfully.
 
 Screenshot:
 
-![Q17](17.png)
+![Q17](screenshots/outputs/17.png)
 ---
 
 ## Q18. Amend last commit message
@@ -321,7 +321,7 @@ git commit --amend -m "Initial commit - Added README"
 
 Screenshot:
 
-![Q18](18.png)
+![Q18](screenshots/outputs/18.png)
 ---
 
 ## Q19. Conflict Task
@@ -370,11 +370,11 @@ git commit -m "Resolved merge conflict"
 
 Screenshot:
 
-![alt text](19.1.png)
+![alt text](screenshots/outputs/19.1.png)
 
-![alt text](19.2.png)
+![alt text](screenshots/outputs/19.2.png)
 
-![alt text](19.3.png)
+![alt text](screenshots/outputs/19.3.png)
 ---
 
 ## Q20. Fork colleague repo and clone locally
@@ -391,9 +391,9 @@ branching-drill-team
 
 Screenshot 
 
-![alt text](20.1.png)
+![alt text](screenshots/outputs/20.1.png)
 
-![alt text](20.2.png)
+![alt text](screenshots/outputs/20.2.png)
 ---
 
 ## Q21. Add collaborator
@@ -405,7 +405,7 @@ Add collaborator successfully.
 
 Screenshot 
 
-![Q21](21.png)
+![Q21](screenshots/outputs/21.png)
 ---
 
 # Final Submission

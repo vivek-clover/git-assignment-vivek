@@ -7,4 +7,4 @@
 **Command:**
 git --version
 
-C:\Users\Admin\git-assignment-vivek\screenshots\Q1 image.png
+![alt text](<screenshots/Q1 image.png>)

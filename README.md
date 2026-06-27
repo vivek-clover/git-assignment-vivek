@@ -1,6 +1,7 @@
-# Git Assignment - YourName
-Line 1
-Line 2
-Line 3
-Line 4
-Line 5
+# Git Assignment - vivek
+
+## Section A: Git Basics + Setup
+
+## Q1. Check if Git is installed. What version do you have?
+Command:
+git --version

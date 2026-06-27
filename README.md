@@ -1,5 +1,4 @@
 # Git Assignment - Vivek Zanjad
-# Git Assignment - Vivek Zanjad
 
 This repository contains my Git assignment submission covering Git basics, branching, merging, conflict resolution, GitHub remote operations, and collaboration tasks.
 
